@@ -26,7 +26,7 @@ func main() {
 	x, y := 5, 10
 
 	sum := sum(x, y)
-	_, prod := multiplyAndSum(x, y)
+	prod, _ := multiplyAndSum(x, y)
 
 	fmt.Println(sum, prod)
 }
