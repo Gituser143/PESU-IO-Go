@@ -31,6 +31,7 @@ Batch 2
 | PES1UG20CS021 | ADITYA N                | Present | Present    |          |        |          |          |        |        |
 | PES1UG20CS065 | Anubuthi Kottapalli     | Present | Present    |          |        |          |          |        |        |
 | PES1UG20EE026 | Devanth MALLIKARJUNAIAH | Present | **Absent** |          |        |          |          |        |        |
+| PES1UG20CS386 | Sanskriti Mathuria      | Present | Present    |          |        |          |          |        |        |
 | PES1UG20EC360 | SHREYA GANGADHARA       | Present | Present    |          |        |          |          |        |        |
 | PES1UG20CS523 | AISHWARYA PARTHASARATHI | Present | **Absent** |          |        |          |          |        |        |
 | PES1UG20ME042 | KUSHAL RAVIKUMAR        | Present | Present    |          |        |          |          |        |        |
@@ -47,7 +48,6 @@ Batch 2
 | PES1UG20CS112 | CHETAN GURRAM           | Present | **Absent** |          |        |          |          |        |        |
 | PES1UG20CS294 | Pranav Raju             | Present | Present    |          |        |          |          |        |        |
 | PES1UG20CS438 | suchit kallapur         | Present | Present    |          |        |          |          |        |        |
-| PES1UG20CS386 | Sanskriti Mathuria      | Present | Present    |          |        |          |          |        |        |
 
 ---
 
