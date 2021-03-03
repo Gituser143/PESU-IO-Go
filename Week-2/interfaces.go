@@ -6,14 +6,14 @@ import (
 )
 
 // Interface decleration
-type geometry interface {
+type shape interface {
 	getName() string
 	area() float64
 	perim() float64
 }
 
 // function to work on interface
-func measure(g geometry) {
+func measure(g shape) {
 	fmt.Println("Shape:", g.getName())
 	fmt.Println("Area:", g.area())
 	fmt.Println("Perim:", g.perim())

@@ -15,7 +15,7 @@ func vSum(a ...int) int {
 func main() {
 	// Calling vSum with aribitrary
 	// number of arguments
-	s1 := vSum(1, 2, 15, 7)
+	s1 := vSum(1, 2, 15, 7, 10, 20)
 
 	arr := []int{1, 5, 6, 3, 14}
 
