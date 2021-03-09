@@ -1,4 +1,4 @@
-package main3
+package main
 
 import (
 	"fmt"
@@ -25,7 +25,7 @@ func main() {
 	var wg sync.WaitGroup
 
 	// Initialise WaitGroup
-	wg.Add(3)
+	wg.Add(2)
 
 	// Start routines
 	go writeEmail(&wg)

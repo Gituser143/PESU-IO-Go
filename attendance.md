@@ -1,24 +1,24 @@
 Batch 1
 =======
 
-| SRN           | Name                 | W1 Mid     | W1 SME 1   | W1 SME 2   | W2 Mid     | W2 SME 1   | W2 SME 2   | W3 Mid | W3 SME |
-|---------------|----------------------|------------|------------|------------|------------|------------|------------|--------|--------|
-| PES1UG20CS148 | Krithika G           | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20EE083 | Lakshmibai Deshpande | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20ME087 | Tejashri Suresh      | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20CS353 | ROHAN THOMAS         | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20ME165 | charan l s           | Present    | Present    | Present    | **Absent** | Present    | **Absent** |        |        |
-| PES1UG19CS497 | SOWMYA M             | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20EC078 | Harsh Verma          | Present    | Present    | Present    | Present    | **Absent** | **Absent** |        |        |
-| PES1UG20CS203 | Kavisha Mathur       | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20CS397 | SHISHIRA BHAT        | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20CS568 | NANDA N              | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20BB066 | MEGHANA MEGHANA R    | Present    | **Absent** | **Absent** | **Absent** | **Absent** | **Absent** |        |        |
-| PES1UG20CS605 | Thanmayi Hegde       | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20EC196 | Siddhant S           | Present    | Present    | Present    | **Absent** | Present    | Present    |        |        |
-| PES1UG20CS008 | Abhinav Gunti        | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20CS351 | Rohan N              | Present    | Present    | Present    | Present    | Present    | Present    |        |        |
-| PES1UG20CS458 | Tanish P             | **Absent** | Present    | Present    | Present    | **Absent** | **Absent** |        |        |
+| SRN           | Name                 | W1 Mid     | W1 SME 1   | W1 SME 2   | W2 Mid     | W2 SME 1   | W2 SME 2   | W3 Mid     | W3 SME |
+|---------------|----------------------|------------|------------|------------|------------|------------|------------|------------|--------|
+| PES1UG20CS148 | Krithika G           | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20EE083 | Lakshmibai Deshpande | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20ME087 | Tejashri Suresh      | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20CS353 | ROHAN THOMAS         | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20ME165 | charan l s           | Present    | Present    | Present    | **Absent** | Present    | **Absent** | **Absent** |        |
+| PES1UG19CS497 | SOWMYA M             | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20EC078 | Harsh Verma          | Present    | Present    | Present    | Present    | **Absent** | **Absent** | Present    |        |
+| PES1UG20CS203 | Kavisha Mathur       | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20CS397 | SHISHIRA BHAT        | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20CS568 | NANDA N              | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20BB066 | MEGHANA MEGHANA R    | Present    | **Absent** | **Absent** | **Absent** | **Absent** | **Absent** | **Absent** |        |
+| PES1UG20CS605 | Thanmayi Hegde       | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20EC196 | Siddhant S           | Present    | Present    | Present    | **Absent** | Present    | Present    | **Absent** |        |
+| PES1UG20CS008 | Abhinav Gunti        | Present    | Present    | Present    | Present    | Present    | Present    | **Absent** |        |
+| PES1UG20CS351 | Rohan N              | Present    | Present    | Present    | Present    | Present    | Present    | Present    |        |
+| PES1UG20CS458 | Tanish P             | **Absent** | Present    | Present    | Present    | **Absent** | **Absent** | Present    |        |
 
 ---
 

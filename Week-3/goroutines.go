@@ -1,7 +1,8 @@
-package main2
+package main
 
 import (
 	"fmt"
+	"time"
 )
 
 func writeEmail() {
@@ -21,5 +22,5 @@ func main() {
 	go orderFood()
 	go bookTickets()
 	fmt.Println("Started routines!")
-	// time.Sleep(10 * time.Second)
+	time.Sleep(10 * time.Second)
 }
