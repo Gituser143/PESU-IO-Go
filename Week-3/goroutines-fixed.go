@@ -25,7 +25,7 @@ func main() {
 	var wg sync.WaitGroup
 
 	// Initialise WaitGroup
-	wg.Add(2)
+	wg.Add(3)
 
 	// Start routines
 	go writeEmail(&wg)
