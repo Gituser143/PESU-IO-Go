@@ -1,4 +1,4 @@
-package main4
+package main
 
 import (
 	"errors"
@@ -8,9 +8,9 @@ import (
 
 func divide(a, b int) (int, error) {
 	if b == 0 {
-		return 0, errors.New("Cannot divide by 0!")
+		return 0, errors.New("main.divide: Cannot divide by 0!")
 		// Alternate
-		return 0, fmt.Errorf("Cannot divide %v by %v", a, b)
+		// return 0, fmt.Errorf("Cannot divide %v by %v", a, b)
 	}
 
 	return a / b, nil
